@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="mobilesales.xsl"?>
+<MobileSales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="mobilesales.xsd">
+
+    <Store>
+        <storeName>store1</storeName>
+        <Phone>
+            <ModelID>M101</ModelID>
+            <ModelName>Galaxy S22</ModelName>
+            <Brand>Samsung</Brand>
+            <Price>72000</Price>
+            <Color>Black</Color>
+            <SIMSize>Nano</SIMSize>
+            <Memory>128GB</Memory>
+            <Camera>Yes</Camera>
+            <TouchScreen>Yes</TouchScreen>
+            <NoSold>8</NoSold>
+        </Phone>
+
+        <Phone>
+            <ModelID>M102</ModelID>
+            <ModelName>Redmi Note 12</ModelName>
+            <Brand>Xiaomi</Brand>
+            <Price>15000</Price>
+            <Color>Blue</Color>
+            <SIMSize>Nano</SIMSize>
+            <Memory>64GB</Memory>
+            <Camera>Yes</Camera>
+            <TouchScreen>Yes</TouchScreen>
+            <NoSold>15</NoSold>
+        </Phone>
+    </Store>
+
+    <Store>
+        <storeName>store2</storeName>
+        <Phone>
+            <ModelID>M103</ModelID>
+            <ModelName>iPhone 14</ModelName>
+            <Brand>Apple</Brand>
+            <Price>120000</Price>
+            <Color>White</Color>
+            <SIMSize>Nano</SIMSize>
+            <Memory>128GB</Memory>
+            <Camera>Yes</Camera>
+            <TouchScreen>Yes</TouchScreen>
+            <NoSold>5</NoSold>
+        </Phone>
+
+        <Phone>
+            <ModelID>M104</ModelID>
+            <ModelName>Pixel 8</ModelName>
+            <Brand>Google</Brand>
+            <Price>75000</Price>
+            <Color>Gray</Color>
+            <SIMSize>Nano</SIMSize>
+            <Memory>128GB</Memory>
+            <Camera>Yes</Camera>
+            <TouchScreen>Yes</TouchScreen>
+            <NoSold>12</NoSold>
+        </Phone>
+    </Store>
+
+    <Store>
+        <storeName>store3</storeName>
+        <Phone>
+            <ModelID>M105</ModelID>
+            <ModelName>Moto G84</ModelName>
+            <Brand>Motorola</Brand>
+            <Price>18000</Price>
+            <Color>Red</Color>
+            <SIMSize>Nano</SIMSize>
+            <Memory>128GB</Memory>
+            <Camera>Yes</Camera>
+            <TouchScreen>Yes</TouchScreen>
+            <NoSold>9</NoSold>
+        </Phone>
+
+        <Phone>
+            <ModelID>M106</ModelID>
+            <ModelName>Oppo Reno 10</ModelName>
+            <Brand>Oppo</Brand>
+            <Price>28000</Price>
+            <Color>Green</Color>
+            <SIMSize>Nano</SIMSize>
+            <Memory>128GB</Memory>
+            <Camera>Yes</Camera>
+            <TouchScreen>Yes</TouchScreen>
+            <NoSold>20</NoSold>
+        </Phone>
+    </Store>
+
+</MobileSales>
